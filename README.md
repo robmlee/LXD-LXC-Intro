@@ -1,5 +1,5 @@
 # LXD-LXC-Intro
-**This LXD-LXC tutorial is intended for who know Linux and want to build their own AI Lab.**
+**This LXD-LXC tutorial is intended for who want to build their own AI Lab on Linux platform.**
 
 - **1. [安裝與使用 LXD/LXC](https://github.com/robmlee/LXD-LXC-Intro/blob/918cbf47f45274f58311a84d639cd3dbc7a7fe85/01.%20Install%20LXD-LXC.md)**
 
