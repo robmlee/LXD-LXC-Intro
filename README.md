@@ -3,7 +3,7 @@
 
 - **1. [安裝與使用 LXD/LXC](https://github.com/robmlee/LXD-LXC-Intro/blob/918cbf47f45274f58311a84d639cd3dbc7a7fe85/01.%20Install%20LXD-LXC.md)**
 
-- **2. [在 RPi 5 上使用 LXD/LXC 建置 Ollama + Open WebUI]()**
+- **2. [在 RPi 5 上使用 LXD/LXC 建置 Ollama + Open WebUI](https://github.com/robmlee/LXD-LXC-Intro/blob/main/02.%20Install%20Ollama%20and%20OpenWebUI.md)**
   (todo)
 
 - **3. [在 RPi 5 上使用 LXD/LXC 建置 Agent AI 平台 n8n]()**
