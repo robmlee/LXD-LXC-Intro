@@ -3,9 +3,13 @@ This LXD-LXC tutorial is intended for those who want to build their own AI Lab o
 
 ## WHY Linux?? WHY LXD-LXC??
 - WHY Linux??
-  > 錢能解決的，都不是問題，**問題是沒錢！**
+  - 1. [節神](https://blog.jason.tools/)銘言：錢能解決的，都不是問題，**問題是沒錢！**
+  - 2. Linux 的效能，比 Windows 好很多！
+  - 3. 一台 Linux 電腦，可以完全免費跑任意個 Linux Container。
 
 - WHY LXD-LXC??
+  - 1. 在眾多虛擬機器的方案中，Linux Container 是效能最接近原始 Linux 作業系統的方式。
+  - 2. 在眾多 Linux Container 的方案中，LXD-LXC 是進入門檻最低的，只要會了 Linux 的操作，就能輕鬆學會使用 LXD-LXC。
 
 ---
 ## 學習目標
