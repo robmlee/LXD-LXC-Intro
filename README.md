@@ -3,7 +3,7 @@ This LXD-LXC tutorial is intended for those who want to build their own AI Lab o
 
 ## WHY Linux?? WHY LXD-LXC??
 - WHY Linux??
-  > 錢能解決的<br>都不是問題<br>問題是**沒錢**！
+  > 錢能解決的<br>都不是問題<br><br>**問題是 沒錢**！
 
 - WHY LXD-LXC??
 
