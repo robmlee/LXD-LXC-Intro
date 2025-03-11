@@ -10,7 +10,7 @@ This LXD-LXC tutorial is intended for those who want to build their own AI Lab o
 - WHY LXD-LXC??
   - 1. 在眾多虛擬機器的方案中，Linux Container 是效能最接近原始 Linux 作業系統的方式。
   - 2. 在眾多 Linux Container 的方案中，LXD-LXC 是進入門檻最低的，只要會了 Linux 的操作，就能輕鬆學會使用 LXD-LXC。
-  - 3. LXD-LXC 不只可以讓我們跑 Linux Container，也可以透過 VM 的方式，跑 Windows 等不同的作業系統。
+  - 3. LXD-LXC 不只可以讓我們跑 Linux Container，也可以透過 VM 的方式，跑 Windows 等不同的作業系統 (Windows 跑在 Linux 上，比 Windows 直接跑在硬體上，還要穩定。)。
 
 ---
 ## 學習目標
