@@ -5,7 +5,7 @@ This LXD-LXC tutorial is intended for those who want to build their own AI Lab o
 - WHY Linux??
   - 1. [節神](https://blog.jason.tools/)銘言：錢能解決的，都不是問題，**問題是沒錢！**
   - 2. Linux 的效能，比 Windows 好很多！
-  - 3. 一台 Linux 電腦，可以完全免費跑任意個 Linux Container。
+  - 3. 一台 Linux 電腦，可以完全免費跑任意個 Linux Container，讓一台實體電腦可以發揮出最極致的效能。
 
 - WHY LXD-LXC??
   - 1. 在眾多虛擬機器的方案中，Linux Container 是效能最接近原始 Linux 作業系統的方式。
