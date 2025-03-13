@@ -12,7 +12,7 @@ This LXD-LXC tutorial is intended for those who want to build their own AI Lab o
   - 在眾多 Linux Container 的方案中，LXD-LXC 是進入門檻最低的，只要會了 Linux 的操作，就能輕鬆學會使用 LXD-LXC。
   - LXD-LXC 不只可以讓我們跑 Linux Container，也可以透過 VM 的方式，跑 Windows 等不同的作業系統 (Windows 跑在 Linux 上，比 Windows 直接跑在硬體上，還要穩定。)。
   - 還有其他原因需要用到 LXD-LXC 嗎？<br>
-    - 讓線上教學 Liunx 的安裝過程，輕鬆展示。
+    - 讓線上不容易進行的 Liunx 安裝教學，變得簡單容易。
     - 讓每個教學環境、POC 專案的環境隔離、設定、備份、回復，都輕鬆愉快。<br>
        ![圖片](https://github.com/user-attachments/assets/2d1d494d-3386-4dd7-8041-64d88c1de0db)
 
