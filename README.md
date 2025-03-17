@@ -27,7 +27,6 @@ This LXD-LXC tutorial is intended for those who want to build their own AI Lab o
   (todo)
 
   - **3. [LXD Backup and Restore Tools](https://github.com/robmlee/LXD-LXC-Intro/blob/main/12.%20LXD_Container_Backup_Restore_Tools.md)**
-  (todo)
 
 - **LXD/LXC 應用範例：**
   - **1. [在 RPi 5 上使用 LXD/LXC 建置 Ollama + Open WebUI](https://github.com/robmlee/LXD-LXC-Intro/blob/main/20.%20Install%20Ollama%20and%20OpenWebUI.md)**
