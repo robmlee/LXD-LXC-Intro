@@ -1,0 +1,43 @@
+name: routed_192.168.1.240
+description: Routed 192.168.1.240 n8n 
+config:
+  boot.autostart: "false"
+  boot.autostart.delay: "0"
+  limits.cpu: "4"
+  limits.memory: 8GiB
+  limits.memory.swap: false
+  ##
+  ## === 開始 Docker 需要的設定 === 
+  limits.memory.swap: "false" 
+  linux.kernel_modules: p_tables,ip6_tables,nf_nat,overlay,br_netfilter   
+  raw.lxc: "lxc.apparmor.profile=unconfined\nlxc.cap.drop= \nlxc.cgroup.devices.allow=a\nlxc.mount.auto=proc:rw sys:rw" 
+  security.nesting: "true" 
+  security.privileged: "true"
+  security.syscalls.intercept.mknod: "true"
+  security.syscalls.intercept.setxattr: "true"
+  ## === 結束 Docker 需要的設定 ===
+  ##
+  user.network-config: |
+    #cloud-config
+    version: 2
+    ethernets:
+        eth0:
+            addresses:
+            - 192.168.1.240/32
+            dhcp4: no
+            dhcp6: no
+            gateway4: 192.168.1.1
+            nameservers:
+                addresses: [168.95.192.1, 168.95.1.1]
+                search: []
+            routes:
+            -   to: 0.0.0.0/0
+                via: 169.254.0.1
+                on-link: true
+devices:
+  eth0:
+    ipv4.address: 192.168.1.240
+    nictype: routed
+    parent: enp6s0
+    type: nic
+used_by: []
