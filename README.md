@@ -1,5 +1,5 @@
 # LXD-LXC-Intro
-This LXD-LXC tutorial is intended for those who want to build their own AI Lab on Linux platform.
+This tutorial is intended for those who want to build their own AI Lab on Linux platform.
 
 ## WHY Linux?? WHY LXD-LXC??
 - WHY Linux??
@@ -36,5 +36,7 @@ This LXD-LXC tutorial is intended for those who want to build their own AI Lab o
   - **2. [在 RPi 5 上使用 LXD/LXC 建置 Agent AI 平台 n8n](https://github.com/robmlee/LXD-LXC-Intro/blob/main/30.%20Install%20n8n.md)**
 
   - **3. [n8n 與 Ollama 串連](https://github.com/robmlee/LXD-LXC-Intro/blob/main/40.%20Link%20n8n%20node%20to%20Ollama.md)**
-  (todo)
+
+---
+#### Hope this tutorial do help you on learning LXD-LXC.
  
