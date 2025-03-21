@@ -38,5 +38,5 @@ This tutorial is intended for those who want to build their own AI Lab on Linux 
   - **3. [n8n 與 Ollama 串連](https://github.com/robmlee/LXD-LXC-Intro/blob/main/40.%20Link%20n8n%20node%20to%20Ollama.md)**
 
 ---
-#### Hope this tutorial do help you on learning LXD-LXC.
+### Hope this tutorial do help you on learning LXD-LXC.
  
