@@ -18,7 +18,7 @@ This tutorial is intended for those who want to build their own AI Lab on Linux 
 
 
 ---
-## 學習目標
+## 一、學習目標
 
 - **LXD/LXC 入門：**
   - **1. [安裝與使用 LXD/LXC](https://github.com/robmlee/LXD-LXC-Intro/blob/main/10.%20Install%20LXD-LXC.md)**
@@ -36,6 +36,13 @@ This tutorial is intended for those who want to build their own AI Lab on Linux 
   - **2. [在 RPi 5 上使用 LXD/LXC 建置 Agent AI 平台 n8n](https://github.com/robmlee/LXD-LXC-Intro/blob/main/30.%20Install%20n8n.md)**
 
   - **3. [n8n 與 Ollama 串連](https://github.com/robmlee/LXD-LXC-Intro/blob/main/40.%20Link%20n8n%20node%20to%20Ollama.md)**
+
+---
+## 二、AI 專題參考資料
+- **Project for RPi4/5**
+  - **1. [Installing OpenCV on the Raspberry Pi (2025-03-24)](https://pimylifeup.com/raspberry-pi-opencv/)**
+  - **2. [Real-Time AI Basketball Shot Detection with YOLOv8 and OpenCV](https://github.com/avishah3/AI-Basketball-Shot-Detection-Tracker)**
+
 
 ---
 ### Hope this tutorial do help you on learning LXD-LXC.
