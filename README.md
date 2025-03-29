@@ -20,10 +20,13 @@ This tutorial is intended for those who want to build their own AI Lab on Linux 
 ---
 ## 一、學習目標
 - **[Github md format file how to](https://github.com/robmlee/LXD-LXC-Intro/blob/main/00.%20Subject_Sample_File.md)**
-  
-- **LXD/LXC 入門：**
-  - **0. [RPi OS Update Shell Script](https://github.com/robmlee/LXD-LXC-Intro/blob/main/os-rpi-upd.sh)**
 
+- **簡易系統管理**
+  - **1. [RPi OS Update Shell Script](https://github.com/robmlee/LXD-LXC-Intro/blob/main/os-rpi-upd.sh)**
+
+  - **2. [簡易系統管理練習](https://github.com/robmlee/LXD-LXC-Intro/blob/main/01.%20RPiOS_Admin_A_Brief_Intro.md)**
+
+- **LXD/LXC 入門：**
   - **1. [安裝與使用 LXD/LXC](https://github.com/robmlee/LXD-LXC-Intro/blob/main/10.%20Install%20LXD-LXC.md)**
   
   - **2. [Using LXD UI to Manage Container/VM](https://github.com/robmlee/LXD-LXC-Intro/blob/main/11.%20Using_LXD_UI.md)**
