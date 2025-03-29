@@ -32,6 +32,8 @@ This tutorial is intended for those who want to build their own AI Lab on Linux 
   - **4. [Using Custom Profiles](https://github.com/robmlee/LXD-LXC-Intro/blob/main/13.%20Using_Custom_Profiles.md)**  (可以為 Lxc/VM 設定固定 IP)
 
 - **LXD/LXC 應用範例：**
+  - **0. [RPi OS Update Shell Script](https://github.com/robmlee/LXD-LXC-Intro/blob/main/os-rpi-upd.sh)**
+
   - **1. [在 RPi 5 上使用 LXD/LXC 建置 Ollama + Open WebUI](https://github.com/robmlee/LXD-LXC-Intro/blob/main/20.%20Install%20Ollama%20and%20OpenWebUI.md#%E5%9C%A8-rpi-5-%E4%B8%8A%E4%BD%BF%E7%94%A8-lxdlxc-%E5%BB%BA%E7%BD%AE-ollama--open-webui)**
 
   - **2. [在 RPi 5 上使用 LXD/LXC 建置 Agent AI 平台 n8n](https://github.com/robmlee/LXD-LXC-Intro/blob/main/30.%20Install%20n8n.md)**
