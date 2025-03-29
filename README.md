@@ -19,7 +19,7 @@ This tutorial is intended for those who want to build their own AI Lab on Linux 
 
 ---
 ## 一、學習目標
-- **[Github md format file how to]()**
+- **[Github md format file how to](https://github.com/robmlee/LXD-LXC-Intro/blob/main/00.%20Subject_Sample_File.md)**
   
 - **LXD/LXC 入門：**
   - **1. [安裝與使用 LXD/LXC](https://github.com/robmlee/LXD-LXC-Intro/blob/main/10.%20Install%20LXD-LXC.md)**
